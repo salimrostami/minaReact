@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/salimrostami/minaReact.git/static/css/main.4746a2f3.css",
-    "main.js": "/salimrostami/minaReact.git/static/js/main.51d7a55c.js",
+    "main.js": "/salimrostami/minaReact.git/static/js/main.36a80f5d.js",
     "static/media/MHajizadehCV.pdf": "/salimrostami/minaReact.git/static/media/MHajizadehCV.1eedba7ee88077ad536a.pdf",
     "static/media/aboutMina.jpeg": "/salimrostami/minaReact.git/static/media/aboutMina.9414da80f4995f002da3.jpeg",
     "static/media/mina.png": "/salimrostami/minaReact.git/static/media/mina.1bbe9153d09322b70c91.png",
@@ -10,10 +10,10 @@
     "static/media/close.svg": "/salimrostami/minaReact.git/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/salimrostami/minaReact.git/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.4746a2f3.css.map": "/salimrostami/minaReact.git/static/css/main.4746a2f3.css.map",
-    "main.51d7a55c.js.map": "/salimrostami/minaReact.git/static/js/main.51d7a55c.js.map"
+    "main.36a80f5d.js.map": "/salimrostami/minaReact.git/static/js/main.36a80f5d.js.map"
   },
   "entrypoints": [
     "static/css/main.4746a2f3.css",
-    "static/js/main.51d7a55c.js"
+    "static/js/main.36a80f5d.js"
   ]
 }
