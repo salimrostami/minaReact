@@ -1,1 +1,1 @@
-# minaReact
+# Mina Hajizadeh - Biophysicist
