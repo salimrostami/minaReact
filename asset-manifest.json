@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/minaReact/static/css/main.4746a2f3.css",
-    "main.js": "/minaReact/static/js/main.bdbcebc6.js",
+    "main.js": "/minaReact/static/js/main.c9716597.js",
     "static/media/MHajizadehCV.pdf": "/minaReact/static/media/MHajizadehCV.1eedba7ee88077ad536a.pdf",
     "static/media/aboutMina.jpeg": "/minaReact/static/media/aboutMina.9414da80f4995f002da3.jpeg",
     "static/media/mina.png": "/minaReact/static/media/mina.1bbe9153d09322b70c91.png",
@@ -10,10 +10,10 @@
     "static/media/close.svg": "/minaReact/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/minaReact/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.4746a2f3.css.map": "/minaReact/static/css/main.4746a2f3.css.map",
-    "main.bdbcebc6.js.map": "/minaReact/static/js/main.bdbcebc6.js.map"
+    "main.c9716597.js.map": "/minaReact/static/js/main.c9716597.js.map"
   },
   "entrypoints": [
     "static/css/main.4746a2f3.css",
-    "static/js/main.bdbcebc6.js"
+    "static/js/main.c9716597.js"
   ]
 }
