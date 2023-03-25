@@ -1,5 +1,5 @@
 import NavLinks from "./NavLinks";
-import logo from "../images/logoMinaWhite.png";
+import logo from "../images/logoMinaW.png";
 
 const Header = () => {
   return (
