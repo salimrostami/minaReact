@@ -1,15 +1,16 @@
-import projectData from "./projectsData.json";
+import projectData from "./publicationsData.json";
 import Project from "../../components/Project";
 import PageHeader from "../../components/PageHeader";
 
-const Portfolio = () => {
+const Publications = () => {
   const ProjectList = () =>
     projectData.map((project, i) => (
       <Project
         key={i}
         id={project.id}
         title={project.title}
-        technologies={project.technologies}
+        top={project.top}
+        bottom={project.bottom}
         image={project.image}
         color={project.bgcolor}
         github={project.github}
@@ -20,7 +21,7 @@ const Portfolio = () => {
 
   return (
     <section className="portfolio">
-      <PageHeader title="Portfolio" description="View my work" />
+      <PageHeader title="Publications" description="View my work" />
       <div className="row">
         <ProjectList />
       </div>
@@ -28,4 +29,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default Publications;
