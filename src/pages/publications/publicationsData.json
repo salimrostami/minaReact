@@ -35,7 +35,7 @@
   {
     "title": "TRSANS: Photoprotection",
     "image": "./projectImages/quiz.png",
-    "top": "JS | HTML | CSS",
+    "top": "",
     "bottom": "Ongoing",
     "description": "Time-Resolved SANS study of the thermal back conversion of Orange Carotenoid Protein from its active to ground state.",
     "github": "",
@@ -47,12 +47,12 @@
   {
     "title": "Vibrational Dynamics",
     "image": "./projectImages/P1.png",
-    "top": "React | Framer | CSS | Bootstrap | Node",
+    "top": "",
     "bottom": "Final Stages",
     "description": "Cryoprotectant Enhanced Vibrational Dynamics in Water-Soluble Chlorophyll Protein (WSCP): Unveiling Molecular Adaptations through Inelastic and Quasi-elastic Neutron Scattering with Glycerol.",
     "github": "",
     "deployed": "",
     "bgcolor": "#ffcc33",
-    "id": "1"
+    "id": "5"
   }
 ]
