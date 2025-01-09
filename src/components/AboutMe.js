@@ -1,11 +1,20 @@
-import aboutMeImg from "../images/aboutMina.jpeg";
+import aboutMeImg from "../images/aboutMina3.png";
 import { motion } from "framer-motion";
 import SocialIcons from "../components/SocialIcons";
 import { useInView } from "react-intersection-observer";
 import { useState, useEffect } from "react";
 import resume from "../pages/about/MHajizadehCV.pdf";
 
-const AboutMe = ({ name, email, location, affiliation, brand, intro, birthday, language }) => {
+const AboutMe = ({
+  name,
+  email,
+  location,
+  affiliation,
+  brand,
+  intro,
+  birthday,
+  language,
+}) => {
   const [ref, inView] = useInView({
     threshold: 0.2,
     triggerOnce: true,
@@ -36,10 +45,10 @@ const AboutMe = ({ name, email, location, affiliation, brand, intro, birthday, l
     var age = today.getFullYear() - birthDate.getFullYear();
     var m = today.getMonth() - birthDate.getMonth();
     if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
-        age--;
+      age--;
     }
     return age;
-}
+  }
 
   return (
     <div className="aboutContainer container">
@@ -105,7 +114,11 @@ const AboutMe = ({ name, email, location, affiliation, brand, intro, birthday, l
               </div>
             </div>
             <div className="buttonContainer">
-              <button className="btn downloadCV" onClick={handleDownload} disabled={downloading}>
+              <button
+                className="btn downloadCV"
+                onClick={handleDownload}
+                disabled={downloading}
+              >
                 {downloading ? "Downloading..." : "Download Resume"}
               </button>{" "}
               <SocialIcons />

@@ -13,8 +13,8 @@ const Publications = () => {
         bottom={project.bottom}
         image={project.image}
         color={project.bgcolor}
-        github={project.github}
-        deployed={project.deployed}
+        link={project.link}
+        doi={project.doi}
         description={project.description}
       />
     ));

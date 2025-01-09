@@ -10,8 +10,8 @@ const Project = ({
   image,
   color,
   id,
-  github,
-  deployed,
+  link,
+  doi,
   description,
   bottom,
   oddEven,
@@ -86,20 +86,10 @@ const Project = ({
         ></img>
         <h3 className="modalTitle">{title}</h3>
         <p className="projectDescription">{description}</p>
-        {github !== "" && (
-          <button
-            className="btn"
-            onClick={() => (window.location.href = github)}
-          >
-            Repository
-          </button>
-        )}
-        {deployed !== "" && (
-          <button
-            className="btn"
-            onClick={() => (window.location.href = deployed)}
-          >
-            Live Link
+        {doi !== "" && <p className="projectDescription">{doi}</p>}
+        {link !== "" && (
+          <button className="btn" onClick={() => window.open(link, "_blank")}>
+            Link
           </button>
         )}
       </Modal>

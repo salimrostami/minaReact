@@ -10,18 +10,50 @@ const SocialIcons = () => {
 
   return (
     <div className="socialIcons" style={styles.socialIcons}>
-      <a className="icon" style={styles.icon} href="https://www.researchgate.net/profile/Mina-Hajizadeh">
-        <i className="fa-brands fa-researchgate" aria-hidden="true" title="Mina's ResearchGate Profile"></i>
+      <a
+        className="icon"
+        style={styles.icon}
+        href="https://www.researchgate.net/profile/Mina-Hajizadeh"
+      >
+        <i
+          className="fa-brands fa-researchgate"
+          aria-hidden="true"
+          title="Mina's ResearchGate Profile"
+        ></i>
         {/* <i class="fa-brands fa-github"></i> */}
       </a>
-      <a className="icon" style={styles.icon} href="https://www.linkedin.com/in/mina-hajizadeh-5b1999168/">
-        <i className="fa-brands fa-linkedin" aria-hidden="true" title="Mina's LinkedIn Profile"></i>
+      <a
+        className="icon"
+        style={styles.icon}
+        href="https://www.linkedin.com/in/mina-hajizadeh-5b1999168/"
+      >
+        <i
+          className="fa-brands fa-linkedin"
+          aria-hidden="true"
+          title="My LinkedIn Page"
+        ></i>
       </a>
-      <a className="icon" style={styles.icon} href="https://www.instagram.com/mina_hajizadeh_/">
-        <i className="fa-brands fa-instagram" aria-hidden="true" title="Mina's Instagram Profile"></i>
+      <a
+        className="icon"
+        style={styles.icon}
+        href="https://www.instagram.com/mina_hajizadeh_/"
+      >
+        <i
+          className="fa-brands fa-instagram"
+          aria-hidden="true"
+          title="My Instagram Page"
+        ></i>
       </a>
-      <a className="icon" style={styles.icon} href="https://twitter.com/miinariiiii">
-        <i className="fa-brands fa-twitter" aria-hidden="true" title="Mina's Twitter Profile"></i>
+      <a
+        className="icon"
+        style={styles.icon}
+        href="https://twitter.com/miinariiiii"
+      >
+        <i
+          className="fa-brands fa-twitter"
+          aria-hidden="true"
+          title="My X Profile"
+        ></i>
       </a>
     </div>
   );
