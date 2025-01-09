@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.864c424b.css",
-    "main.js": "/static/js/main.b1dcca48.js",
-    "static/media/MHajizadehCV.pdf": "/static/media/MHajizadehCV.d14cf66d47568c30e19c.pdf",
-    "static/media/aboutMina.jpeg": "/static/media/aboutMina.9414da80f4995f002da3.jpeg",
-    "static/media/mina.png": "/static/media/mina.1bbe9153d09322b70c91.png",
+    "main.js": "/static/js/main.2c7650ca.js",
+    "static/media/aboutMina3.png": "/static/media/aboutMina3.579b71f24f26b3d90b56.png",
+    "static/media/MHajizadehCV.pdf": "/static/media/MHajizadehCV.271fefe9a516947b94f3.pdf",
+    "static/media/mina2.png": "/static/media/mina2.f29704f8b47887fc1259.png",
     "static/media/logoMinaW.png": "/static/media/logoMinaW.67435bdf81682f668b1d.png",
     "index.html": "/index.html",
     "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.864c424b.css.map": "/static/css/main.864c424b.css.map",
-    "main.b1dcca48.js.map": "/static/js/main.b1dcca48.js.map"
+    "main.2c7650ca.js.map": "/static/js/main.2c7650ca.js.map"
   },
   "entrypoints": [
     "static/css/main.864c424b.css",
-    "static/js/main.b1dcca48.js"
+    "static/js/main.2c7650ca.js"
   ]
 }
